@@ -1,0 +1,60 @@
+[
+  {
+	"_id":"1",
+	"artist":"Naved-mirchi murga",
+  	"image_url":"https://github.com/gkhera12/misc/blob/master/images/mirchi_murga.jpg",
+   	"titles":[ 
+   		{
+   			"title":"JUDD GAYE",
+    		"title_url":"https://github.com/gkhera12/misc/blob/master/audio/mirchi_murga/JUDDGAYE-1460632097.mp3"},
+    	{
+   			"title":"ONLINE SHOPPING",
+    		"title_url":"https://github.com/gkhera12/misc/blob/master/audio/mirchi_murga/ONLINESHOPPING-1460632266.mp3"
+    	}
+    ]
+  },
+  {
+	"_id":"2",
+	"artist":"Bharti Singh",
+  	"image_url":"https://github.com/gkhera12/misc/blob/master/images/bharti_singh.jpg",
+   	"titles":[ 
+   		{
+   			"title":"",
+    		"title_url":""
+    	}
+    ]
+  },
+  {
+	"_id":"3",
+	"artist":"Kapil Sharma",
+  	"image_url":"https://github.com/gkhera12/misc/blob/master/images/kapil.jpeg",
+   	"titles":[ 
+   		{
+   			"title":"",
+    		"title_url":""
+    	}
+    ]
+  },
+  {
+	"_id":"4",
+	"artist":"Krushna Abhishek",
+  	"image_url":"https://github.com/gkhera12/misc/blob/master/images/krushna_abhishek.jpg",
+   	"titles":[ 
+   		{
+   			"title":"",
+    		"title_url":""
+    	}
+    ]
+  },
+  {
+	"_id":"5",
+	"artist":"Raju Srivastav",
+  	"image_url":"https://github.com/gkhera12/misc/blob/master/images/raju_srivastava.jpeg",
+   	"titles":[ 
+   		{
+   			"title":"",
+    		"title_url":""
+    	}
+    ]
+  }
+ ]
